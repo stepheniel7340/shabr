@@ -1,3 +1,9 @@
+body{
+    background:linear-gradient(80deg, #fbfddd	, #faccad);
+    /*font-family: "museo-sans", "Helvetica Neue", "Arial", sans-serif;*/
+    background-attachment: fixed;
+}
+
 .title{
     color: white;
     font-family:Gotu;
