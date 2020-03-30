@@ -1,7 +1,15 @@
 body{
-    background-image:linear-gradient(20deg, #ffd2b4, #ffe5b4, #fff8b4);
+    background-image:linear-gradient(60deg, #a1c4fd, #e2ebf0, #fff8b4);
     /*font-family: "museo-sans", "Helvetica Neue", "Arial", sans-serif;*/
     background-attachment: fixed;
+}
+
+.jumbo{
+   position: relative;
+    left: 220px;
+    border-radius: 10px; 
+    width: 100%;
+
 }
 
 .title{
@@ -12,7 +20,7 @@ body{
     
 }
 .title2{
-    color: white;
+    color: rgb(0,0,220);
 }
 
 .ifont{
@@ -29,3 +37,7 @@ body{
 .cfont{
     color: rgb(50,30,0);
 }
+.bfont{
+    color: rgb(165,42,42);
+}
+
