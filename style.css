@@ -37,8 +37,10 @@ body{
     color: rgb(50,30,0);
 }
 
-
 .bfont{
     color: rgb(165,42,42);
+}
+.sfont{
+    color: black;
 }
 
